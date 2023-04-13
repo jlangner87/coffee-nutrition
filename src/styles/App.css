@@ -1,0 +1,20 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+  background-color: #434343;
+  color: #ffffff;
+}
+
+.Builder {
+  border: 1px solid #e3cc74;
+}
+
+
+.Header {
+  background-color: #f0dc8f;
+  color: #434343;
+}
+
+.Section-heading {
+  color: #e3cc74;
+}
